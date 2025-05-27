@@ -1,0 +1,14 @@
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\bin\Debug\net8.0\tl1-tp7-2025-camibvir.exe
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\bin\Debug\net8.0\tl1-tp7-2025-camibvir.deps.json
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\bin\Debug\net8.0\tl1-tp7-2025-camibvir.runtimeconfig.json
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\bin\Debug\net8.0\tl1-tp7-2025-camibvir.dll
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\bin\Debug\net8.0\tl1-tp7-2025-camibvir.pdb
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\obj\Debug\net8.0\tl1-tp7-2025-camibvir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\obj\Debug\net8.0\tl1-tp7-2025-camibvir.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\obj\Debug\net8.0\tl1-tp7-2025-camibvir.AssemblyInfo.cs
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\obj\Debug\net8.0\tl1-tp7-2025-camibvir.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\obj\Debug\net8.0\tl1-tp7-2025-camibvir.dll
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\obj\Debug\net8.0\refint\tl1-tp7-2025-camibvir.dll
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\obj\Debug\net8.0\tl1-tp7-2025-camibvir.pdb
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\obj\Debug\net8.0\tl1-tp7-2025-camibvir.genruntimeconfig.cache
+C:\Users\Alumno\Documents\tl1-tp7-2025-camibvir\obj\Debug\net8.0\ref\tl1-tp7-2025-camibvir.dll
