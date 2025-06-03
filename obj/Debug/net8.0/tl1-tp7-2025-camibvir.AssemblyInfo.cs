@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tl1-tp7-2025-camibvir")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1637be7e1fe75a04af378fb5d51cbc66d9e5d80")]
 [assembly: System.Reflection.AssemblyProductAttribute("tl1-tp7-2025-camibvir")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tl1-tp7-2025-camibvir")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
